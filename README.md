@@ -1,1 +1,0 @@
-# BackGround-Remover-App
