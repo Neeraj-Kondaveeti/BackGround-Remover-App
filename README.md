@@ -7,7 +7,7 @@ A sleek and responsive web app built with React/Next.js that allows users to upl
 ## 🚀 Features
 
 - **Upload images** (single or batch)
-- **Instant background removal** via `@imgly/background-removal` 
+- **Instant background removal** via `@imgly/background-removal`  
 - **Adjustable output quality**
 - **Responsive UI** for desktop and mobile
 - **Download** background-free images (PNG with transparency)
