@@ -46,13 +46,13 @@ A sleek and responsive web app built with React/Next.js that allows users to upl
 ## Project Structure 
 
 📦BackGround-Remover-App
- ┣ 📂components      # Reusable UI components
- ┣ 📂pages           # Next.js routes (e.g. index.js)
- ┣ 📂public          # Static assets
- ┣ 📂styles          # Global & Tailwind styling
- ┣ 📂utils           # Helper functions (e.g. file handling)
- ┣ package.json
- ┗ tailwind.config.js
+ - ┣ 📂components      # Reusable UI components
+ - ┣ 📂pages           # Next.js routes (e.g. index.js)
+ - ┣ 📂public          # Static assets
+ - ┣ 📂styles          # Global & Tailwind styling
+ - ┣ 📂utils           # Helper functions (e.g. file handling)
+ - ┣ package.json
+ - ┗ tailwind.config.js
 
 ## 📬 Contact
 - Created by Neeraj Kondaveeti.
