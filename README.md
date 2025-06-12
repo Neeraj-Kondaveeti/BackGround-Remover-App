@@ -55,8 +55,8 @@ A sleek and responsive web app built with React/Next.js that allows users to upl
  ┗ tailwind.config.js
 
 ## 📬 Contact
-Created by Neeraj Kondaveeti.
-Feel free to reach out via email: neerajkondaveeti1901@gmail.com
+- Created by Neeraj Kondaveeti.
+- Feel free to reach out via email: neerajkondaveeti1901@gmail.com
 
 
 
